@@ -1,0 +1,9 @@
+{
+  "name": "slide-design-rag",
+  "version": "2.0.0",
+  "description": "Slide Design RAG system with auto-presentation generation",
+  "private": true,
+  "dependencies": {
+    "pptxgenjs": "^3.12.0"
+  }
+}
